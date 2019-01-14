@@ -3,4 +3,7 @@
 选择file菜单下的导入数据，选择人员名单，格式为txt 记事本所编辑(GBK)
 ###导出方式
 选择file菜单下的导出选项，选择需要导出的目录即可导出
+###效果展示
 ![Alt text](./index.png)
+![Alt text](./start.png)
+![Alt text](./import.png)

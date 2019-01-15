@@ -28,3 +28,6 @@ eg:
 ![Alt text](./index.png)
 ![Alt text](./start.png)
 ![Alt text](./import.png)
+
+##批量生成功能
+![Alt text](./index2.png)
